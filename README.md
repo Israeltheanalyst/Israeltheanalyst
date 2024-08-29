@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Israeltheanalyst
+- 👋 Hi, I’m Israel Olasupo
+- 
 As a seasoned data analyst and instructor, I help organizations drive efficiency and informed decision-making through data-driven solutions. My expertise includes:
 
 - Data analysis and visualization
