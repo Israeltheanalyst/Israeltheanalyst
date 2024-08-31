@@ -1,7 +1,7 @@
-- 👋 Hello,My name is Israel Olasupo. I am from University of Lagos pursuing my degree in BS Bed Mathematics Education.
+👋 Hello,My name is Israel Olasupo. I am from University of Lagos pursuing my degree in BS Bed Mathematics Education.
 
   
-- I huge have interest in data analysis 
+I huge have interest in data analysis 
 
 
 As a seasoned data analyst and instructor, I help organizations drive efficiency and informed decision-making through data-driven solutions. My expertise includes:
